@@ -3,3 +3,4 @@ __pycache__/
 *.db
 agent_log.txt
 .vscode/
+.venv/
